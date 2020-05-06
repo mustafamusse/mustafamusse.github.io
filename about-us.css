@@ -1,5 +1,5 @@
 body {
-
+background-color: #000 !important;
 }
 
 html, body {
@@ -10,6 +10,32 @@ html, body {
   overflow-x: hidden;
 }
 
-.Rami {
-  color: blue;
+.title-text {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: white;
+  text: capitalize;
+}
+
+.students  {
+  color: white;
+  padding-left: 400px;
+  padding-right: 400px;
+  text-align: center;
+}
+
+
+.image img {
+  position: relative;
+right: 300px;
+  width: 100%;
+}
+
+
+
+.image2 img {
+  position: relative;
+  left: 300px;
+  width: 120%;
 }
