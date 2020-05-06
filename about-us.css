@@ -28,7 +28,7 @@ html, body {
 
 .image img {
   position: relative;
-right: 300px;
+
   width: 100%;
 }
 
@@ -36,6 +36,6 @@ right: 300px;
 
 .image2 img {
   position: relative;
-  left: 300px;
+
   width: 120%;
 }
