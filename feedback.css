@@ -10,6 +10,6 @@ html, body {
   overflow-x: hidden;
 }
 
-.Rami {
-  color: yellow;
-}
+.nav-text {
+  color: #c2b280 !important;
+  }

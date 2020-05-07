@@ -27,3 +27,7 @@ html, body {
   text-align: center;
   padding-bottom: 10px;
 }
+
+.nav-text {
+  color: #c2b280 !important;
+  }

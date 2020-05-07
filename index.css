@@ -41,3 +41,7 @@ html, body {
 a:hover{
   opacity: 1;
 }
+
+.nav-text {
+color: #c2b280 !important;
+}
