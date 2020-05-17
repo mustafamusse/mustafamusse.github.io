@@ -17,6 +17,11 @@ html, body {
   border: blue;
 }
 
+.image-content-overlay{
+  background-color:#000;
+  opacity: 0.5;
+}
+
 .bk-padding {
   padding-left: 370px;
 }
